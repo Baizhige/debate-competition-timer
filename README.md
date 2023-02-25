@@ -5,7 +5,7 @@ A timer for holding debate competition, based on PyQt
 ## Usage
 Run GUIPyQt.py
 
-##Description
+## Description
 images: button icon, stored in binary data
 picture: for background, art, stored in .png file
 sound: sound for timer
